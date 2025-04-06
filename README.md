@@ -4,7 +4,7 @@
 
 Journalists, protestors, and others operating in hostile environments can apply for emergency grants — but only if receiving funds through traditional infrastructure is impossible or life-threatening.
 
-pileusfund.github.io/Pileus
+https://pileusfund.github.io/Pileus
 
 ---
 
