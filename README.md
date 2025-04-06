@@ -88,14 +88,6 @@ Q2W7cAEGWsCdgdftJqYxmQU7dcreAA==
 
 ---
 
-## 🗂️ Repo Contents
-
-- `index.html` — The static donation page
-- `monero-qr.png` — QR code for Monero donations
-- `README.md` — This document
-
----
-
 ## 🛡️ Principles
 
 - Privacy-first and censorship-resistant
