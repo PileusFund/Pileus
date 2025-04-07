@@ -65,27 +65,6 @@ To ensure donor trust, the Fund will publish its full balance once per quarter:
 ## 👤 Founder & Chief Administrator
 
 **Name**: Reuben Bance  
-**Bio**: Cambridge graduate, political campaigner
-**PGP Key**: 
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-xjMEZ/J38xYJKwYBBAHaRw8BAQdAL05A3vhhSO0Y9D0unWaO5SkClPpjkaLB
-KyBoRDAiK07NLXBpbGV1cy5mdW5kQHByb3Rvbi5tZSA8cGlsZXVzLmZ1bmRA
-cHJvdG9uLm1lPsLAEQQTFgoAgwWCZ/J38wMLCQcJkNseImh2Y5JkRRQAAAAA
-ABwAIHNhbHRAbm90YXRpb25zLm9wZW5wZ3Bqcy5vcmcAy4K2fZlG83uF8mEP
-v92PXHRVX//Vzfvp38P3fuBuhQMVCggEFgACAQIZAQKbAwIeARYhBAhk/izW
-B3LCIOKiWNseImh2Y5JkAADOIQD+PsObzNrv7DOySClkrpzOUBlRy1rkZ7ko
-UqgP/xwIacsA/jjqsKFpnNyaHH1GgvoPFJNkrXgmk6uuK4kxNIZIB1sDzjgE
-Z/J38xIKKwYBBAGXVQEFAQEHQBwIV66tyZNE8zxV69LlVGAJLe7Gi/5J9vHF
-pzKgi5g3AwEIB8K+BBgWCgBwBYJn8nfzCZDbHiJodmOSZEUUAAAAAAAcACBz
-YWx0QG5vdGF0aW9ucy5vcGVucGdwanMub3JnwH0yC9fq2T02nMiGGbFn7OZL
-eJYfldBZVZk6zWkdR28CmwwWIQQIZP4s1gdywiDioljbHiJodmOSZAAAn3UA
-/2Uw4XoGSCgvlystLbtib7cAOB7GwYhO1NfIK5IIRIQDAQDksxAPPTRLqvnJ
-Q2W7cAEGWsCdgdftJqYxmQU7dcreAA==
-=hwIC
------END PGP PUBLIC KEY BLOCK-----
-
 **Contact**: pileus.fund@proton.me
 
 ---
