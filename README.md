@@ -77,6 +77,15 @@ To ensure donor trust, the Fund will publish its full balance once per quarter:
 
 ---
 
+## Repo Contents
+*Pileus_Fund.asc* - Public PGP Key for verifying/decrypting Pileus Fund documents/messages. This key can also be requested from pileus.fund@proton.me
+*Pileus_Fund_Addresses.odt* - Document that contains the XMR and BTC donation addresses for the Pileus Fund
+*Pileus_Fund_Addresses.odt.sig* - Signature that can be used with the Fund's public PGP key to verify the authenticity of the *Pileus_Fund_Addresses.odt* document
+*README.md* - This document
+*bitcoin-qr.png* - Bitcoin donation address QR code
+*monero-qr.png* - Monero donation address QR code
+*index.html* - HTML code for webpage (https://pileusfund.github.io/Pileus)
+
 ## 📜 License
 
 MIT License — feel free to fork and adapt this project for your own grassroots fund.
