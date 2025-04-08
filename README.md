@@ -62,13 +62,6 @@ To ensure donor trust, the Fund will publish its full balance once per quarter:
 
 ---
 
-## 👤 Founder & Chief Administrator
-
-**Name**: Reuben Bance  
-**Contact**: pileus.fund@proton.me
-
----
-
 ## 🛡️ Principles
 
 - Privacy-first and censorship-resistant
